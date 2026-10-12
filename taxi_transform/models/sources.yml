@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: nyc_taxi_raw
+    database: data-stack-project-511409
+    schema: nyc_taxi_raw
+    tables:
+      - name: yellow_tripdata_2025_12

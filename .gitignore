@@ -1,0 +1,5 @@
+credentials.json
+data/raw/
+taxi_transform/target/
+taxi_transform/logs/
+__pycache__/
